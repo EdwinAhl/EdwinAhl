@@ -22,8 +22,9 @@ My most ambitious project is developing the game pong on a microcontroller with 
 - AI
 - States
 - Leaderboard
+- Testing
 
-But I also helped a bit with the rest when I could.
+But I was also involed a bit with the rest when I could.
 
 ### [Natural deduction proof verifier](https://github.com/EdwinAhl/DD1351-Task-2) and [CTL verifier](https://github.com/EdwinAhl/DD1351-Task-3) 
 Both of the projects where developed in Prolog. I was responsible for the overal code structure and wrote about half of the neccesary rules needing to be verified in both cases while my labparter [@BaltzarL](https://github.com/BaltzarL) wrote the other half.
@@ -39,6 +40,10 @@ These are:
 - [Queues](https://github.com/EdwinAhl/ID1021-Queues)
 - [Heap](https://github.com/EdwinAhl/ID1021-Heap)
 - [Graphs](https://github.com/EdwinAhl/ID1021-Graphs)
+
+### Java webserver COMING 
+
+### Elixir algorithms and data structures COMING
 
 #### *Note: Repositories starting with two letters followed by four numbers (e.g, DD1351) are courses from my studies at KTH.*
 
