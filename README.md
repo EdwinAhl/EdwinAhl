@@ -4,6 +4,7 @@
 ## Abut me 😃
 I'm a university student at KTH since 2021 and my goal is to graduate with a master in computer science.
 
+Mail: edwin.ahlstrand@bahnhof.se
 
 ## Experience 🎓
 I have experience in:
