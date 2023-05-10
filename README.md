@@ -2,11 +2,14 @@
 
 
 ## Abut me 😃
-I'm a university student at KTH since 2021 and my goal is to graduate with a master in computer science.
+I'm a university student at KTH Royal Institute of Technology since 2021 and my goal is to graduate with a master in computer science.
 
 Mail: edwin.ahlstrand@bahnhof.se
 
 ## Experience 🎓
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinAhl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title=""csharp" alt "csharp" width="40" height="40"/>&nbsp;
@@ -17,8 +20,7 @@ Mail: edwin.ahlstrand@bahnhof.se
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <div>
-
-Also in:
+                                                                                                                                              
 - MIPS Assembly
 - Prolog
 - Astah
@@ -48,19 +50,18 @@ The DB was first planned in Astah with both a conceptual model and a logical/phy
 Afterwards, a JDBC for the DB was developed in Java. I wrote most of the code in the model-layer while my labpartner [@BaltzarL](https://github.com/BaltzarL) wrote most of the code in the controller-layer. 
 
 
-### Java Algorithms and Data Structures
-I have published the three most interesting assignments from my course ID1021 where I developed and benchmarked different algorithms and data structures. 
-These are:
+### Algorithms and Data Structures
+I have published the three most interesting assignments from each of my courses where I developed and benchmarked different algorithms and data structures.
+                                                                                                                                              
+#### Java (ID-1021)
 - [Queues](https://github.com/EdwinAhl/ID1021-Queues)
 - [Heap](https://github.com/EdwinAhl/ID1021-Heap)
 - [Graphs](https://github.com/EdwinAhl/ID1021-Graphs)
-
-
-<!--- 
-### Java webserver COMING 
-
-### Elixir algorithms and data structures COMING
--->
+                                                                                                                                              
+#### Elixir (ID-1019)
+- [Interpreter](https://github.com/EdwinAhl/ID1019-Interpreter)
+- [Multithreading](https://github.com/EdwinAhl/ID1019-Philosophers)                                                                                 
+- [Huffman](https://github.com/EdwinAhl/ID1019-Huffman)                                                           
 
 
 #### *Note: Repositories starting with two letters followed by four numbers (e.g, DD1351) are courses from my studies at KTH.*
