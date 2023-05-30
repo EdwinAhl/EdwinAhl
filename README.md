@@ -4,7 +4,7 @@
 ## About me 😃
 I'm a university student at KTH Royal Institute of Technology since 2021 and my goal is to graduate with a master in computer science.
 
-Mail: edwin.ahlstrand@bahnhof.se
+Mail: edwinahl@kth.se
 
 ---
 
