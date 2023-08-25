@@ -6,6 +6,8 @@ I'm a university student at KTH Royal Institute of Technology since 2021 and my 
 
 Mail: edwinahl@kth.se
 
+Linkedin: [edwin-ahlstrand](www.linkedin.com/in/edwin-ahlstrand)
+
 ---
 
 ## Experience 🎓
@@ -68,6 +70,11 @@ I was also partially involed with the rest of the project when possible.
  
 ### [Natural Deduction Proof Verifier](https://github.com/EdwinAhl/DD1351-Task-2) & [Computational Tree Logic Verifier](https://github.com/EdwinAhl/DD1351-Task-3) 
 Both of the projects where developed in Prolog. I was responsible for the overal code structure and wrote about half of the neccesary rules needing to be verified in both projects, while my labparter [@BaltzarL](https://github.com/BaltzarL) wrote the other half.
+
+#
+
+### [Concurrent HTTP server](https://github.com/EdwinAhl/IK1203-Task-4)
+An HTTP server which can recieve concurrent requests from multiple clients.
 
 #
 
