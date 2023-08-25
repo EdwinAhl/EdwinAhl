@@ -24,7 +24,8 @@ Mail: edwinahl@kth.se
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <div>
-                                                                                                                                              
+ 
+Also in:                                                                                                                                              
 - MIPS Assembly
 - Prolog
 - Astah
@@ -34,8 +35,26 @@ Mail: edwinahl@kth.se
  
 ## My work 💻
 
+#### *Note: Repositories starting with two letters followed by four numbers (e.g, DD1351) are courses from my studies at KTH.*
+
+### [Swedish Talent Monitor](https://swedishtalentmonitor.com/)
+The dashboard was developed for Future Place Leadership using SCRUM in team Echo from the course II1305. The website displays demand in the labor market for specific professions in all of Sweden's counties. Data is gathered each month from emloyment websites and can be filtered. 
+
+I was responsible or developed code for: 
+- Overall code and file structure
+- Integrating platsbanken API
+- Extracting data from our database
+- Influenced certain design choices on the website such as
+  - Settings for the graph
+  - Instructions
+
+
+#
+
 ### [PongDeluxe](https://github.com/EdwinAhl/IS1200-PongDeluxe)
-My most ambitious project is developing the classic game pong on a microcontroller with basic IO in C. I was responsible for:
+The classic game pong was developed on a microcontroller with basic IO in C. 
+
+I was responsible for:
 - Overal structure of the code
 - Menu
 - AI
@@ -71,6 +90,3 @@ I have published the three most interesting assignments from each of my courses 
 - [Interpreter](https://github.com/EdwinAhl/ID1019-Interpreter)
 - [Multithreading](https://github.com/EdwinAhl/ID1019-Philosophers)                                                                                 
 - [Huffman](https://github.com/EdwinAhl/ID1019-Huffman)                                                           
-
-
-#### *Note: Repositories starting with two letters followed by four numbers (e.g, DD1351) are courses from my studies at KTH.*
