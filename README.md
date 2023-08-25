@@ -6,7 +6,7 @@ I'm a university student at KTH Royal Institute of Technology since 2021 and my 
 
 Mail: edwinahl@kth.se
 
-Linkedin: [edwin-ahlstrand](www.linkedin.com/in/edwin-ahlstrand)
+Linkedin: [edwin-ahlstrand](https://www.linkedin.com/in/edwin-ahlstrand/)
 
 ---
 
