@@ -41,7 +41,7 @@ The classic game pong was developed on a microcontroller with basic IO in C.
 ---
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/edwin-ahlstrand/)" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-ahlstrand/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
 </div>
