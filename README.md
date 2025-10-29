@@ -2,7 +2,7 @@
 
 
 ## About me 😃
-<p> I've been a university student at KTH Royal Institute of Technology since 2021, and I am currently pursuing my master's in cybersecurity. </p>
+<p> University student at KTH Royal Institute of Technology since 2021, currently pursuing a Master’s in Cybersecurity. </p>
 
 
 ## Languages and Tools 🛠️ 
@@ -23,12 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="60" height="60"/>
 </div>
 <br>
-<div align="center">
-  Troupe<br>
-  MIPS Assembly<br>
-  Astah<br>
-  Solidworks
-</div>
  
 ## My work 💻
 
